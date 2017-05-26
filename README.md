@@ -1,4 +1,3 @@
-# Test
 # React-Native-Login
 	A React native login form component using Redux-Forms.
  # Example
@@ -96,3 +95,4 @@ const styles = StyleSheet.create({
   }
 });
 ```
+
