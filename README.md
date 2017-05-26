@@ -1,14 +1,14 @@
 # Test
-React-Native-Login
+# React-Native-Login
 	A React native login form component using Redux-Forms.
- Example
+ # Example
  
  
  
  
-Usage
+# Usage
  
-import {
+'''import {
   StyleSheet,
   Text,
   View,
@@ -94,3 +94,4 @@ const styles = StyleSheet.create({
    //styles for the field
   }
 });
+'''
