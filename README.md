@@ -8,7 +8,8 @@
  
 # Usage
  
-```import {
+```
+import {
   StyleSheet,
   Text,
   View,
@@ -93,4 +94,5 @@ const styles = StyleSheet.create({
   fieldstyle: {
    //styles for the field
   }
-});```
+});
+```
